@@ -2,7 +2,7 @@
 https://github.com/TTLIDAR/ttlidar_windows_sdk
 
 2. Open the sdk solution with Visual Studio.
-ttlidar_windows\workspaces\sdk_and_demo\sdk_and_demo.sln
+FilePath:ttlidar_windows\workspaces\sdk_and_demo\sdk_and_demo.sln
 
 3.The sdk solution consists of two projects: a demo project and a lidar driver project 
 
